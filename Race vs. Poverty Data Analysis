@@ -1,1 +1,49 @@
+<!DOCTYPE>
+html>
+
+<html>
+
+<meta charset= "UTF 8">
+   <link rel="stylesheet" href="style.css">   
+<title>
+Data Visuals demonstration
+
+
+</title>
+   
+   <h1> How does race impact poverty? </h1>
+          <ul>
+                   <li> <a href= "index.html" target= " https://996585.github.io/The-vision-of-William-cooke/"> Home</a></li> 
+                    <li> <a href= "projects.html" target= "https://996585.github.io/The-vision-of-William-cooke/projects.html"> projects</a></li>
+                     <li> <a href= "page2.html" target= "https://996585.github.io/The-vision-of-William-cooke/page2.html"> Hobbies</a></li>
+                    
+            <li> <a href= "blog.html"  target= "https://996585.github.io/The-vision-of-William-cooke/blog.html">blog</a></li>
+              <li><a href= "About me.html" target=https://996585.github.io/The-vision-of-William-cooke/aboutme.html>About me</a></li>
+
+                        
+                  </ul>       
+
+<body>
+  
+   <h2> Visuals </h2> 
+   <img src= "unnamed.png" height= 800 px>
+   <img src= "unnamed (1).png" height= 800 px>
+   <img src= "Untitled drawing.jpg" height= 800 px>
+   <h2> Analysis </h2>
+  <p>TThrough analyzing the data we have collected we have noticed two things.
+The first graph shows that over the years poverty has decreased for all races, although hispanic people are experiencing a rise in poverty.
+The second graph that the poverty rate is highest for blacks and hispanics, and lowest for asians and whites.
+We chose to represent the second graph in a pie chart to show proportionally how the races compare in terms of poverty rate.
+This shows that people growing up in poverty are more likely to be in poverty themselves.
+Our final visual displays the difference in the percentage of people in poverty according to their race. The photos of the man are proportional to each other. </p>
+   
+   <h2> conclusion </h2>
+    <p>Throughout this project, we have learned many things. We have learned about how race affects how much money you make,
+and how to chose how to display data. We discovered that line graphs are usually best when their is a time component, and pie charts when its proportional.
+We have also learned through researching our topic the school to prison pipeline and have realized how lucky we are to go to a school like minnetonka.
+
+   </p>
+</body>
+
+</html>  
 
